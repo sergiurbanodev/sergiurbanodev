@@ -87,14 +87,14 @@ And here are some interesting grphs:
 <div align="left">
   <div>
     <img
-      height="150"
+      height="153"
       alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergiurbanodev&theme=vue"
+      src="https://github-readme-stats.vercel.app/api?username=sergiurbanodev&show_icons=true&theme=vue"
     />
     <img
-      height="150"
+      height="153"
       alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergiurbanodev&theme=vue"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiurbanodev&layout=compact&theme=vue"
     />
   </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergiurbanodev&theme=vue" alt="profile detail" />
